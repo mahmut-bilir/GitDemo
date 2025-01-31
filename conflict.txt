@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bu değişiklik main ve feature-branch içeriğini birleştirdi.m
+=======
+Bu değişiklik main ve feature-branch içeriğini birleştirdi.f1
+>>>>>>> feature-branch
