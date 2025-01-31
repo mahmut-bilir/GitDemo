@@ -1,1 +1,1 @@
-Bu değişiklik main ve feature-branch içeriğini birleştirdi.f
+Bu değişiklik main ve feature-branch içeriğini birleştirdi.m
